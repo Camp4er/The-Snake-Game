@@ -10,6 +10,7 @@ section {
 
   body{
     background-color: #596e79;
+    overflow: hidden;
   }
   
   h1{
